@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.Main-Container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #f1f5f8;
+}
+
+.Increment-Btn {
+  background-color: #007bff;
+  padding: 8px;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.counterValue {
+  color: #c20a72;
+}
